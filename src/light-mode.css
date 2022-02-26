@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+  color: black;
+}
+input {
+  background-color: white;
+  color: black;
+  border-color: black;
+}
+button {
+  background-color: white;
+  border-color: black;
+  color: black;
+}
+button:hover {
+  background-color: rgb(230, 230, 230);
+}
+button:focus {
+  color: rgb(30, 30, 30);
+}
+a {
+  color: rgb(0, 90, 175);
+}
+a:hover {
+  color: rgb(0, 55, 107);
+}
